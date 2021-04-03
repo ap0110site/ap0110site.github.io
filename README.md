@@ -7,6 +7,27 @@ ap0110 has not yet been released.
 ap0110 will be released at midnight on April 3rd, so be ready!
 
 
+## FAQ
+- Is this real?
+
+Yes.
+
+- 14.4?
+
+Not yet, there is no kernel exploit.
+
+- 14.4.1?
+
+See above.
+
+- 14.4.2?
+
+For christs sake.
+
+- 14.5?
+
+You were a mistake
+
 
 ## Credits
 * tihmstar        - h3lix, liboffsetfinder32, liboffsetfinder64
