@@ -1,8 +1,13 @@
 # ap0110
 ap0110 is an autoexecuting jailbreak for iOS 10.x on all supported devices.
 
-## [Download](https://github.com/athenusdev/ap0110/releases/download/1.0b2/ap0110.ipa)
+## [Download](https://github.com/athenusdev/ap0110/releases/download/1.0b3/ap0110.ipa)
 ## Changelog
+
+### 1.0b3
+- fixes substrate logging
+- dark blockchain
+
 ### 1.0b2
 - Remove un-necessary notification code
 - Require user interaction to jailbreak for the first time
