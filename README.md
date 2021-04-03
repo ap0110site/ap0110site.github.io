@@ -1,11 +1,7 @@
 # ap0110
 ap0110 is an autoexecuting jailbreak for iOS 10.x on all supported devices.
 
-## Download
-ap0110 has not yet been released. 
-
-ap0110 will be released at midnight on April 3rd, so be ready!
-
+## [Download](https://github.com/athenusdev/ap0110/releases/download/1.0b1/ap0110.ipa)
 
 ## FAQ
 - Is this real?
