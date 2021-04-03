@@ -29,7 +29,7 @@ You were a mistake
 * tihmstar        - h3lix, liboffsetfinder32, liboffsetfinder64
 * SongXiaoXi      - sockH3lix, 32-bit version of sock_port
 * spacepilotAV    - voip_load/Athenus autoexecution, most of the porting of sockH3lix to function with Athenus & testing
-* Mariner         - testing
+* Mariner         - testing, Public Relations, icon, moral support
 
 ## Tested Devices
 
