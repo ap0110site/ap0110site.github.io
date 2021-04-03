@@ -28,7 +28,7 @@ You were a mistake
 ## Credits
 * tihmstar        - h3lix, liboffsetfinder32, liboffsetfinder64
 * SongXiaoXi      - sockH3lix, 32-bit version of sock_port
-* spacepilotAV    - [REDACTED UNTIL RELEASE]_load/Athenus autoexecution, most of the porting of sockH3lix to function with Athenus & testing
+* spacepilotAV    - voip_load/Athenus autoexecution, most of the porting of sockH3lix to function with Athenus & testing
 * Mariner         - testing
 
 ## Tested Devices
