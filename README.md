@@ -7,6 +7,7 @@ ap0110 is an autoexecuting jailbreak for iOS 10.x on all supported devices.
 - Remove un-necessary notification code
 - Require user interaction to jailbreak for the first time
 - Disable jailbreak button if already jailbroken
+
 ### 1.0b1
 - initial release
 
