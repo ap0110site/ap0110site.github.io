@@ -30,22 +30,44 @@ ap0110 is an autoexecuting jailbreak for iOS 10.x on all supported devices.
 
 Yes.
 
-- 14.4?
+- Is iOS X.X.X supported?
 
-Not yet, there is no kernel exploit.
+iOS 10.x is supported, no other firmwares. 
 
-- 14.4.1?
+## Compatibility
+ap0110 should work on all devices (besides A10) on iOS 10.0(.1 if you don't count GM) to 10.3.4.
 
-See above.
+### Supported Devices List
 
-- 14.4.2?
+iPhone 5
 
-For christs sake.
+iPhone 5C
 
-- 14.5?
+iPhone 5S
 
-You were a mistake
+iPhone 6
 
+iPhone 6 Plus
+
+iPhone SE (1st generation)
+
+iPhone 6S
+
+iPhone 6S Plus
+
+iPad 4th Generation
+
+iPad 5th Generation
+
+iPad Air
+
+iPad Mini 2
+
+iPad Mini 3
+
+iPad Mini 4
+
+iPod Touch 6th Generation
 
 ## Credits
 * tihmstar        - h3lix, liboffsetfinder32, liboffsetfinder64
