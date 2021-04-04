@@ -1,10 +1,13 @@
 # ap0110
 ap0110 is an autoexecuting jailbreak for iOS 10.x on all supported devices.
 
-## [Download](https://github.com/athenusdev/ap0110/releases/download/1.1b1/ap0110.ipa)
+## [Download](https://github.com/athenusdev/ap0110/releases/download/1.1b2/ap0110.ipa)
 ## Changelog
 
-### [1.1b1](https://github.com/athenusdev/ap0110/releases/download/1.1b1/ap0110.ipa)
+### [1.1b2](https://github.com/athenusdev/ap0110/releases/download/1.1b2/ap0110.ipa)
+- partially fixed bug introduced in 1.1b1 which broke autoexecution
+
+### [1.1b1](https://github.com/athenusdev/ap0110/releases/download/1.1b1/ap0110.ipa) (broken build, don't use)
 - add ability to enable/disable autojailbreaking, tweaks, and launch daemons
 - disable landscape which broke the ui
 - speed up jailbreaking
